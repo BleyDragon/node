@@ -1,0 +1,6 @@
+/* Estilos para el componente App */
+.App {
+  text-align: center; /* Alinea el texto en el centro */
+  background-color: brown; /* Establece el color de fondo del componente como marrón */
+  color: aqua; /* Establece el color del texto como agua (un tono de azul claro) */
+}
